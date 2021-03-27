@@ -1,3 +1,3 @@
 # notebooks
 
-Jupyter notebooks by Jacob Chuslo.
+This repo contains my Jupyter Notebooks.
